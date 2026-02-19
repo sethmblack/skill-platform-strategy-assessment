@@ -4,7 +4,7 @@ description: Evaluate any product, service, or business model through the lens o
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4694
+  version: 1.0.4695
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - platform-strategy-assessment
